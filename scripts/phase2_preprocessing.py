@@ -5,7 +5,7 @@ from sklearn.model_selection import StratifiedKFold
 
 
 # ============================================================
-# PHASE 2 - BASELINE PREPROCESSING
+# PHASE 2 - BASELINE  PREPROCESSING
 # ============================================================
 
 print("=" * 60)
