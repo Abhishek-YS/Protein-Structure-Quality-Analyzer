@@ -30,7 +30,7 @@ print("PHASE 2 - BASELINE FEATURE MATRIX PREPARATION")
 print("=" * 60)
 
 # ---------------------------------------------------------
-# 1. Select features and target
+# 1. Select features and  target
 # ---------------------------------------------------------
 
 X = df[FEATURES].copy()
